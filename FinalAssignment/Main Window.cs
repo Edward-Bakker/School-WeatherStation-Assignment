@@ -26,7 +26,7 @@ namespace FinalAssignment
         {
             InitializeComponent();
             // Insert your API key here as string
-            api = new API("9c5d15dce2fa2aba46c9cc8dfcc718ca");
+            api = new API("");
             StartTimer();
             UpdateWeather();
         }
